@@ -4,4 +4,8 @@
 remote change
 
 
-local change
+
+local change2
+
+remote change2
+
